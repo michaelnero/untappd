@@ -1,22 +1,24 @@
 {
-	"name": "untappd",
-	"image": "mcr.microsoft.com/devcontainers/base:jammy",
-	"features": {
-		"ghcr.io/devcontainers/features/node:1": {
-			"nodeGypDependencies": true,
-			"version": "20.4.0"
-		}
-	},
-	"customizations": {
-		"vscode": {
-			"extensions": [
-				"bradlc.vscode-tailwindcss",
-				"svelte.svelte-vscode",
-				"esbenp.prettier-vscode",
-				"GitHub.copilot",
-				"dbaeumer.vscode-eslint",
-				"GitHub.vscode-pull-request-github"
-			]
-		}
-	}
+  "name": "untappd",
+  "image": "mcr.microsoft.com/devcontainers/base:jammy",
+  "forwardPorts": [5173],
+  "features": {
+    "ghcr.io/devcontainers/features/node:1": {
+      "nodeGypDependencies": true,
+      "version": "20.4.0"
+    }
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "bradlc.vscode-tailwindcss",
+        "svelte.svelte-vscode",
+        "esbenp.prettier-vscode",
+        "GitHub.copilot",
+        "dbaeumer.vscode-eslint",
+        "GitHub.vscode-pull-request-github",
+        "GitHub.remotehub"
+      ]
+    }
+  }
 }
