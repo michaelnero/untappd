@@ -6,13 +6,7 @@ const config = {
   preprocess: [vitePreprocess({})],
 
   kit: {
-    adapter: adapter(),
-    csp: {
-      mode: "auto",
-      directives: {
-        "connect-src": ["self", "vitals.vercel-insights.com", "vercel.live", "*.pusher.com"],
-      }
-    }
+    adapter: adapter()
   }
 };
 
