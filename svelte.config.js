@@ -10,7 +10,7 @@ const config = {
     csp: {
       mode: "auto",
       directives: {
-        "connect-src": ["self", "vitals.vercel-insights.com"],
+        "connect-src": ["self", "vitals.vercel-insights.com", "vercel.live"],
       }
     }
   }
