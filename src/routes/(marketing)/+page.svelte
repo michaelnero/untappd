@@ -25,10 +25,10 @@
       <div class="mx-auto max-w-7xl px-6 pb-32 pt-36 sm:pt-60 lg:px-8 lg:pt-32">
         <div class="mx-auto max-w-2xl gap-x-14 lg:mx-0 lg:flex lg:max-w-none lg:items-center">
           <div class="w-full max-w-xl lg:shrink-0 xl:max-w-2xl">
-            <h1 class="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">We&rsquo;re changing the way people connect.</h1>
+            <h1 class="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl">Discover the world of tech and learn for <span class="underline">free</span>.</h1>
             <p class="relative mt-6 text-lg leading-8 text-gray-600 sm:max-w-md lg:max-w-none">Cupidatat minim id magna ipsum sint dolor qui. Sunt sit in quis cupidatat mollit aute velit. Et labore commodo nulla aliqua proident mollit ullamco exercitation tempor. Sint aliqua anim nulla sunt mollit id pariatur in voluptate cillum.</p>
             <div class="mt-10 flex items-center gap-x-6">
-              <a href="#" class="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Get started</a>
+              <a href="#" class="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Discover</a>
               <a href="/about" class="text-sm font-semibold leading-6 text-gray-900">Learn more <span aria-hidden="true">→</span></a>
             </div>
           </div>
@@ -110,9 +110,9 @@
   </div>
   <div class="bg-indigo-100">
     <div class="mx-auto max-w-7xl px-6 py-24 sm:py-32 lg:flex lg:items-center lg:justify-between lg:px-8">
-      <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Ready to dive in?<br>Start your free trial today.</h2>
+      <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Untapp your talent,<br>discover the world of tech,<br>and kickstart your career.</h2>
       <div class="mt-10 flex items-center gap-x-6 lg:mt-0 lg:flex-shrink-0">
-        <a href="#" class="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Get started</a>
+        <a href="#" class="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Discover</a>
         <a href="#" class="text-sm font-semibold leading-6 text-gray-900">Learn more <span aria-hidden="true">→</span></a>
       </div>
     </div>
@@ -130,30 +130,14 @@
               <div class="absolute inset-0 rounded-2xl ring-1 ring-inset ring-gray-900/10"></div>
             </div>
             <div class="max-w-xl">
-              <div class="mt-8 flex items-center gap-x-4 text-xs">
-                <time datetime="2020-03-16" class="text-gray-500">Mar 16, 2020</time>
-                <a href="#" class="relative z-10 rounded-full bg-gray-50 px-3 py-1.5 font-medium text-gray-600 hover:bg-gray-100">Marketing</a>
-              </div>
-              <div class="group relative">
+              <div class="group relative mt-8">
                 <h3 class="mt-3 text-lg font-semibold leading-6 text-gray-900 group-hover:text-gray-600">
                   <a href="#">
                     <span class="absolute inset-0"></span>
-                    Boost your conversion rate
+                    Invest in yourself
                   </a>
                 </h3>
-                <p class="mt-5 line-clamp-3 text-sm leading-6 text-gray-600">Illo sint voluptas. Error voluptates culpa eligendi. Hic vel totam vitae illo. Non aliquid explicabo necessitatibus unde. Sed exercitationem placeat consectetur nulla deserunt vel. Iusto corrupti dicta.</p>
-              </div>
-              <div class="relative mt-8 flex items-center gap-x-4">
-                <img src="https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80" alt="" class="h-10 w-10 rounded-full bg-gray-100">
-                <div class="text-sm leading-6">
-                  <p class="font-semibold text-gray-900">
-                    <a href="#">
-                      <span class="absolute inset-0"></span>
-                      Michael Foster
-                    </a>
-                  </p>
-                  <p class="text-gray-600">Co-Founder / CTO</p>
-                </div>
+                <p class="mt-5 line-clamp-3 text-sm leading-6 text-gray-600">Training courses in which we provide you with professional and technical training. With which you actively work on your development as an IT professional.</p>
               </div>
             </div>
           </article>
@@ -163,30 +147,14 @@
               <div class="absolute inset-0 rounded-2xl ring-1 ring-inset ring-gray-900/10"></div>
             </div>
             <div class="max-w-xl">
-              <div class="mt-8 flex items-center gap-x-4 text-xs">
-                <time datetime="2020-03-10" class="text-gray-500">Mar 10, 2020</time>
-                <a href="#" class="relative z-10 rounded-full bg-gray-50 px-3 py-1.5 font-medium text-gray-600 hover:bg-gray-100">Sales</a>
-              </div>
-              <div class="group relative">
+              <div class="group relative mt-8">
                 <h3 class="mt-3 text-lg font-semibold leading-6 text-gray-900 group-hover:text-gray-600">
                   <a href="#">
                     <span class="absolute inset-0"></span>
-                    How to use search engine optimization to drive sales
+                    Career crafting
                   </a>
                 </h3>
-                <p class="mt-5 line-clamp-3 text-sm leading-6 text-gray-600">Optio cum necessitatibus dolor voluptatum provident commodi et. Qui aperiam fugiat nemo cumque.</p>
-              </div>
-              <div class="relative mt-8 flex items-center gap-x-4">
-                <img src="https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80" alt="" class="h-10 w-10 rounded-full bg-gray-100">
-                <div class="text-sm leading-6">
-                  <p class="font-semibold text-gray-900">
-                    <a href="#">
-                      <span class="absolute inset-0"></span>
-                      Lindsay Walton
-                    </a>
-                  </p>
-                  <p class="text-gray-600">Front-end Developer</p>
-                </div>
+                <p class="mt-5 line-clamp-3 text-sm leading-6 text-gray-600">Become the author of your own career. Organise your own time and study in a flexible environment. Our professionals give you the very best start in your IT career.</p>
               </div>
             </div>
           </article>
@@ -196,30 +164,14 @@
               <div class="absolute inset-0 rounded-2xl ring-1 ring-inset ring-gray-900/10"></div>
             </div>
             <div class="max-w-xl">
-              <div class="mt-8 flex items-center gap-x-4 text-xs">
-                <time datetime="2020-02-12" class="text-gray-500">Feb 12, 2020</time>
-                <a href="#" class="relative z-10 rounded-full bg-gray-50 px-3 py-1.5 font-medium text-gray-600 hover:bg-gray-100">Business</a>
-              </div>
-              <div class="group relative">
+              <div class="group relative mt-8">
                 <h3 class="mt-3 text-lg font-semibold leading-6 text-gray-900 group-hover:text-gray-600">
                   <a href="#">
                     <span class="absolute inset-0"></span>
-                    Improve your customer experience
+                    Mentoring
                   </a>
                 </h3>
-                <p class="mt-5 line-clamp-3 text-sm leading-6 text-gray-600">Cupiditate maiores ullam eveniet adipisci in doloribus nulla minus. Voluptas iusto libero adipisci rem et corporis. Nostrud sint anim sunt aliqua. Nulla eu labore irure incididunt velit cillum quis magna dolore.</p>
-              </div>
-              <div class="relative mt-8 flex items-center gap-x-4">
-                <img src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80" alt="" class="h-10 w-10 rounded-full bg-gray-100">
-                <div class="text-sm leading-6">
-                  <p class="font-semibold text-gray-900">
-                    <a href="#">
-                      <span class="absolute inset-0"></span>
-                      Tom Cook
-                    </a>
-                  </p>
-                  <p class="text-gray-600">Director of Product</p>
-                </div>
+                <p class="mt-5 line-clamp-3 text-sm leading-6 text-gray-600">By putting you at the center of our matching process, we get to discover what moves you. Together we focus on what is important to you in your new dream job.</p>
               </div>
             </div>
           </article>
@@ -229,10 +181,10 @@
   <div class="bg-indigo-700">
     <div class="px-6 py-24 sm:px-6 sm:py-32 lg:px-8">
       <div class="mx-auto max-w-2xl text-center">
-        <h2 class="text-3xl font-bold tracking-tight text-white sm:text-4xl">Boost your productivity.<br>Start using our app today.</h2>
-        <p class="mx-auto mt-6 max-w-xl text-lg leading-8 text-indigo-200">Incididunt sint fugiat pariatur cupidatat consectetur sit cillum anim id veniam aliqua proident excepteur commodo do ea.</p>
+        <h2 class="text-3xl font-bold tracking-tight text-white sm:text-4xl">Untappd is all about the<br>power of individual talent.</h2>
+        <p class="mx-auto mt-6 max-w-xl text-lg leading-8 text-indigo-200">We value diversity, equality and inclusion as essential to our program. With a special focus on people who are historically underrepresented in ICT.</p>
         <div class="mt-10 flex items-center justify-center gap-x-6">
-          <a href="#" class="rounded-md bg-white px-3.5 py-2.5 text-sm font-semibold text-indigo-600 shadow-sm hover:bg-indigo-50 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white">Get started</a>
+          <a href="#" class="rounded-md bg-white px-3.5 py-2.5 text-sm font-semibold text-indigo-600 shadow-sm hover:bg-indigo-50 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white">Discover</a>
           <a href="#" class="text-sm font-semibold leading-6 text-white">Learn more <span aria-hidden="true">→</span></a>
         </div>
       </div>
@@ -283,7 +235,7 @@
               <use href="#b56e9dab-6ccb-4d32-ad02-6b4bb5d9bbeb" x="86" />
             </svg>
             <blockquote class="text-xl font-semibold leading-8 text-white sm:text-2xl sm:leading-9">
-              <p>Gravida quam mi erat tortor neque molestie. Auctor aliquet at porttitor a enim nunc suscipit tincidunt nunc. Et non lorem tortor posuere. Nunc eu scelerisque interdum eget tellus non nibh scelerisque bibendum.</p>
+              <p>Thank you for this opportunity it. I could follow the courses on my own time online as well. When I got stuck I could always ask my mentor for help. His support really made the difference. I am excited to learn more languages.</p>
             </blockquote>
             <figcaption class="mt-8 text-base">
               <div class="font-semibold text-white">Judith Black</div>
